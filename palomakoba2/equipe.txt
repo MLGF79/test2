@@ -4,9 +4,9 @@ Equipe: A
 (SM)
 Scrum mascter: Edurado Hernany
 	
-	Desenvolvedor 1: (Devs) Manoel
-	Habilidades: 
-	Experiencias:
+	Desenvolvedor 1: (Devs) Manoel Lima Garcia Filho
+	Habilidades: Dormi muito, mestre em piada sem graça
+	Experiencias:42 anos andando pelo mundo
 
 	Desenvolvedor 2: (Devs) Rafael
 	Habilidades: 
@@ -18,4 +18,4 @@ Scrum mascter: Edurado Hernany
 
 	Desenvolvedor 4: (Devs) Alexandra
 	Habilidades: 
-	Experiencias:
+	Experiencias: 
